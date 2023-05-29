@@ -12,8 +12,8 @@ A Flutter widget that provides a customizable and interactive listing card simil
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](assets/screenshot1.png)
+![Screenshot 2](assets/screenshot2.png)
 
 ## Example Usage
 
